@@ -9,7 +9,7 @@ import datetime
 conexao = mysql.connector.connect(
     host = 'localhost',
     user = 'root',
-    password = '1320',
+    password = '****',
     database = 'test',
     
 )
